@@ -57,3 +57,21 @@ The dataset contains 9 columns with comprehensive customer and product informati
 | **KNN Classifier** | 73.78% | 60.67% | 📉 Lowest |
 
 ### Random Forest Performance (Best Model)
+
+## 🛠️ Technology Stack
+
+- **Python 3.x** - Primary programming language
+- **Pandas** - Data manipulation and analysis
+- **NumPy** - Numerical computing
+- **Matplotlib** - Data visualization
+- **Seaborn** - Statistical data visualization
+- **Scikit-learn** - Machine learning algorithms
+- **Jupyter Notebook** - Development environment
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+```bash
+Python 3.7+
+Jupyter Notebook
