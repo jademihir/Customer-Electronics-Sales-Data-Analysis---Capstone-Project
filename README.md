@@ -67,10 +67,10 @@ The dataset contains 9 columns with comprehensive customer and product informati
 - **Seaborn** - Statistical data visualization
 - **Scikit-learn** - Machine learning algorithms
 - **Jupyter Notebook** - Development environment
-
+  
 ## 🚀 Getting Started
 
-### Prerequisites
+### Prerequisite
 
 ```bash
 Python 3.7+
